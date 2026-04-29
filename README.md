@@ -41,6 +41,11 @@ For decryption, the letters are shifted back by the same number of positions.
 
 Results:
 
-- ![encode_result](/images/encoding_result.png)
-- ![decode_result](/images/decoding_result.png)
+- Encoding
+
+![encode_result](/images/encoding_result.png)
+
+- Decoding
+
+![decode_result](/images/decoding_result.png)
 
